@@ -3,4 +3,5 @@ class Main {
      Tests t = new Tests();
      t.testMultiplication();
 	}
+
 }
